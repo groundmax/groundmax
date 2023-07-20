@@ -3,7 +3,7 @@
 
 ### 🌱 BIO
 
-I'm a Machine Learning Engineer / Data Scientist with close to 4+ years of experience with a love to recommendation systems.  
+I'm a Machine Learning Engineer / Data Scientist with close to 4+ years of experience.  
 I had an opportunity to work in finance domain as well as e-commerce.
 
 Contact me via telegram: [@lukin_maxim](https://t.me/lukin_maxim)
@@ -23,14 +23,5 @@ Contact me via telegram: [@lukin_maxim](https://t.me/lukin_maxim)
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-  </p>
-</a>
-
-
-### 🧠 Currently Learning
-
-<a href="https://github.com/Ileriayo/markdown-badges">
-  <p align="center">
-      <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   </p>
 </a>
