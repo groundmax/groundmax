@@ -3,7 +3,7 @@
 
 ### 🌱 BIO
 
-I'm a Machine Learning Engineer / Data Scientist with close to 4+ years of experience.  
+I'm a Machine Learning Engineer / Data Scientist with 4+ years of experience.  
 I had an opportunity to work in finance domain as well as e-commerce.
 
 Contact me via telegram: [@lukin_maxim](https://t.me/lukin_maxim)
